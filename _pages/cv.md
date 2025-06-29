@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[download my CV here]([files](https://github.com/XUEXiao-sean/XiaoXUE.github.io/tree/master/files/XUE_Xiao_CV.pdf)
+[download my CV here](https://github.com/XUEXiao-sean/XiaoXUE.github.io/tree/master/files/XUE_Xiao_CV.pdf)
 
 # Education
 * **The University of Edinburgh (United Kingdom)**, MSc Design Informatics, 09/2020 – 09/2021
