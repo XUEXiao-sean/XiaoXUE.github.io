@@ -1,0 +1,10 @@
+---
+title: "A card-based co-design toolkit for exploring smart material applications with multiple stakeholders: A case study on automotive interior design"
+collection: publications
+permalink: /publication/2025-07-01-toolkit
+excerpt: 'This paper presents a card-based co-design toolkit for exploring smart material applications in automotive interior design with multiple stakeholders.'
+date: 2025-07-01
+venue: 'Proceedings of the 2025 ACM Designing Interactive Systems Conference (DIS ’25)'
+paperurl: ''
+citation: 'Yu, T., Wang, X., Lu, Y., Yu, K., Yao, X., Deng, W., Li, Z., Li, X., Xue, X., Yang, Y., Guo, Y., Yao, Y., Liu, G., & Mi, H. (2025). A card-based co-design toolkit for exploring smart material applications with multiple stakeholders: A case study on automotive interior design. In <i>Proceedings of the 2025 ACM Designing Interactive Systems Conference (DIS ’25)</i>. Association for Computing Machinery.'
+---
