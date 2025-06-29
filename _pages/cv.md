@@ -22,7 +22,7 @@ redirect_from:
 * **Enhancing Self-management during Quarantine: A Gamified Exploration for Short-term Motivation Improvement**, 2021
   * Supervised by Prof. John Vines
   * Explored gamified approaches to support self-management during short-term quarantine. Designed and evaluated a prototype app informed by participatory approach, addressing critical self-management needs and providing actionable insights into gamification usability for future health technologies.
-  * [PDF download](URL_to_PDF)
+  * [PDF download]([URL_to_PDF](https://drive.google.com/file/d/1bKb8LRIPm6f0qXOaDKnk6Qpvr_1vBSw4/view?usp=sharing))
 
 # Project Experience
 * **Configuring People as Critics in Designer-led Smart Technology Design: A Case Study**, 2024
